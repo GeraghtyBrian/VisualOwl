@@ -4,13 +4,12 @@ Visual Studio Colour Scheme based on the [Owl Color Scheme](https://packagecontr
 
 >C# Syntax Sample
 
-![C# Sample](http://i.imgur.com/GCcOhzn.png "C# Sample")
-
+![C# Sample](http://i.imgur.com/u9234QP.png "C# Sample")
 
 >Html Syntax Sample
 
-![Html Sample](http://i.imgur.com/ahkXOrn.png "Html Sample")
+![Html Sample](http://i.imgur.com/5FzZJRY.png "Html Sample")
 
 >CSS/SCSS Sample
 
-![CSS/SCSS Sample](http://i.imgur.com/E4qlAHv.png "CSS/SCSS Sample")
+![CSS/SCSS Sample](http://i.imgur.com/8UAlBvo.png "CSS/SCSS Sample")
